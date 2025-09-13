@@ -25,6 +25,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Thinhtucute&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thinhtucute&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinhtucute&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-![](https://quotes-github-readme.vercel.app/api?quote=Code%20chay%20duoc%20dung%20co%20dung%20vao%20nua&author=me&type=horizontal&theme=radical)
